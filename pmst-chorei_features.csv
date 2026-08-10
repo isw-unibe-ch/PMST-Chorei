@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,chorei
+incl,inclusive,clusivity,INCL,chorei
+pl,plural,number,PL,chorei
+sg,singular,number,SG,chorei
+1,first person,person,1,chorei
+2,second person,person,2,chorei
+3,third person,person,3,chorei
+aff,affirmative,polarity,POS,chorei
+neg,negative,polarity,NEG,chorei
+fut,future,tense_aspect,FUT,chorei
+nfut,non-future,tense_aspect,,chorei

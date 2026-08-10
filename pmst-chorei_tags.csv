@@ -1,0 +1,7 @@
+tag_id,tag_column_name,comment,language_id
+rang_fut,paradigm_tag,form is part of a future paradigm marked by rang,chorei
+ti_fut,paradigm_tag,form is part of a future paradigm marked by ti,chorei
+formal,variants_tag,form is used in formal contexts,chorei
+informal,variants_tag,form is informal/colloquial,chorei
+pragm_marked,variants_tag,form is sociopragmatically marked,chorei
+unspecified,variants_tag,form is not used in special contexts,chorei
