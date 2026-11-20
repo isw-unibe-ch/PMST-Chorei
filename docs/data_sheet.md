@@ -25,7 +25,7 @@ This work is funded by SNSF (Swiss National Science Foundation) Grant 10000946 t
 
 This Paralex data set documents paradigms of inflected verb forms as well as pronouns.
 
-**Are forms given as orthographic, phonetic, and or phonemic sequences ?** 
+**Are forms given as orthographic, phonetic, and/or phonemic sequences?** 
 
 Forms are provided as orthographic and phonemic sequences.
 The orthography is either the practical one used by the community or a version of the IPA used by linguists and language experts.
@@ -35,7 +35,7 @@ For Chorei, it is a version of the IPA used by linguists.
 
 -   Number of inflected forms: 266
 
--   Number of unique inflected forms: 137
+-   Number of unique inflected forms: 138
 
 -   Number of unique scenarios (person, number, TAM, polarity combinations): 163
 
@@ -54,14 +54,13 @@ For Chorei, it is a version of the IPA used by linguists.
 |nfut.neg |unspecified  |             | 55|
 
 
-
 **Language varieties**
 
 -   BCP-47 language tag: NA
 -   Glottocode: chor1276
 -   Language variety description: Two Glottocodes appear to refer to Chorei: Western Northwestern Kuki-Chin -> Sakachep-Chorei -> Chorei (chor1278) and Western Northwestern Kuki-Chin -> Halam -> Chorai (chor1276). Chorei and Chorai are likely the same community and language. They (as also Sakachep) are considered a part of the larger Halam grouping for official purposes in Tripura, but a large number (possibly, the majority) of Choreis (as well as Sakacheps) live in Assam where "Halam" has no currency. This is a possible origin of the uncertainty in classification seen in Glottolog. The ISO639 code rnl refers to Halam in general rather than any specific Halam variety. Therefore, the Glottocode chor1278 should be used to be specific about Chorei. I suggest deprecating the Glottocode chor1276 which is associated with the rarer spelling Chorai. Apparently, Chorai is also the name of a clan among the related Hrangkhol people, but this is typically not used as a language name.
 
-**Does the data pertain to specific dialects, geographical locations, genre, etc ?**
+**Does the data pertain to specific dialects, geographical locations, genre, etc?**
 
 The data was collected in Manikbond village (24°18' N 92°18' E) in Assam through paradigm elicitation.
 
@@ -81,7 +80,7 @@ No.
 
 The data set is self-contained.
 
-**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code) ?**
+**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code)?**
 
 NA
 
@@ -91,9 +90,9 @@ The data set pertains to small or indigenous language communities, namely those 
 The data are published here with the consent of the community.
 
 
-# Collection process.
+# Collection process
 
-**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other data sets ?** 
+**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any? Are any information derived from other data sets?** 
 
 The data comes from fieldwork conducted by Dibyajyoti Jana. Specific forms were taken from elicitation and field notes. This work also forms the basis for the segmentation. 
 
@@ -105,7 +104,7 @@ Design principles and theoretical choices implemented for this data set are expl
 
 Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
-**What is the expertise of the contributors with the documented language ?** 
+**What is the expertise of the contributors with the documented language?** 
 
 Dibyajyoti Jana: linguist specializing in South-Central Trans-Himalayan, author of a Chorei phonology description, and currently working on historical phonology of Northwestern South-Central Trans-Himalayan languages
 
@@ -118,11 +117,11 @@ The linguist collected and checked the data with four native-speaker consultants
 The data was collected in spring 2025.
 
 
-# Preprocessing/cleaning/labeling.
+# Preprocessing/cleaning/labeling
 
-**How were the inflected forms obtained ?**
+**How were the inflected forms obtained?**
 
-All forms were collected from speakers. See above.
+All forms were collected from speakers (see above).
 
 **How were the phonological or phonemic transcriptions obtained?** 
 
@@ -161,7 +160,7 @@ It can be used for descriptive and comparative analyses.
 No.
 
 
-# Distribution.
+# Distribution
 
 **Will the data set be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the data set was created?**
 
